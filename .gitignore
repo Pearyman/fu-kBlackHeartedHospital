@@ -1,11 +1,48 @@
-# Build and Release Folders
-bin/
-bin-debug/
-bin-release/
+gen/
+*.class
+.DS_Store
+*/.DS_Store
 
-# Other files and folders
+# Package Files #
+*.jar
+*.war
+*.ear
+#Eclipse Files#
+*.pydevproject
+.project
+.metadata
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
 .settings/
+.loadpath
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+#Idea Files#
+*.iml
+*.ipr
+*.iws
+.idea/
+
+#npm grunt
+node_modules/
+*/node_modules/
+npm-debug.log
+dest/
+deploy/
