@@ -19,7 +19,7 @@ Chrome 插件-用来提示黑心医院名单，欢迎PR
 
 ##### 工具下载
 
-![百度网盘](http://pan.baidu.com/s/1mhT3hsW)
+[百度网盘](http://pan.baidu.com/s/1mhT3hsW)
 
 
 ##### 数据来源
