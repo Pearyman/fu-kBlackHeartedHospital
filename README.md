@@ -11,7 +11,7 @@ Chrome 插件-用来提示黑心医院名单，欢迎PR
 
    如图：
 
-   ![]('src/sm1.png')
+   ![](http://ac-a5zjlnxg.clouddn.com/c599120bdff514bb.png)
 
 2 , 下载该[插件拓展包](https://github.com/Pearyman/fu-kBlackHeartedHospital),
     将bh_hospitals.crx 拖到拓展程序下即可。
@@ -23,9 +23,7 @@ Chrome 插件-用来提示黑心医院名单，欢迎PR
 
 ##### 效果展示
 
-![]('src/show.png');
-
-![]('src/show1.png');
+![]('http://ac-a5zjlnxg.clouddn.com/daa35734f88d7893.png');
 
 进入意思莆田系的医院会有报警提示。
 
