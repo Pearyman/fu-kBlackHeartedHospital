@@ -14,7 +14,7 @@ Chrome 插件-用来提示黑心医院名单，欢迎PR
    ![](http://ac-a5zjlnxg.clouddn.com/c599120bdff514bb.png)
 
 2 , 下载该[插件拓展包](https://github.com/Pearyman/fu-kBlackHeartedHospital),
-    将bh_hospitals.crx 拖到拓展程序下即可。
+    将bh_hospitals.crx 拖到谷歌浏览器下的拓展程序页面即可。
 
 
 ##### 数据来源
