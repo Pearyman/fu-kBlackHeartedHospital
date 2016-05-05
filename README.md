@@ -19,7 +19,7 @@ Chrome 插件-用来提示黑心医院名单，欢迎PR
 
 ##### 工具下载
 
-[百度网盘](http://pan.baidu.com/s/1i5wF2AT)
+[百度网盘](http://pan.baidu.com/s/1hsoAcCW)
 
 
 ##### 数据来源
@@ -49,11 +49,20 @@ Chrome 插件-用来提示黑心医院名单，欢迎PR
 
 #####插件已添加至谷歌应用商店
 
-[传送门](https://chrome.google.com/webstore/detail/bhhospitals/ieogbmijfpmdlkdifblkcgomfmonmfbc)
+[传送门](https://chrome.google.com/webstore/detail/bhhospitals/ieogbmijfpmdlkdifblkcgomfmonmfbc?hl=zh-CN)
+
 
 
 
 
 
 您们fork一下或者给颗星星是对我莫大的鼓励，感谢。
+
+
+
+##todo
+
+因为精力有限，将hospitals.js文件中的数据拿出来。希望大家通过pull request 来更新此份数据以及其中的链接部分。
+
+作为程序员，这也算是我们为大家尽了一丝绵薄之力了吧。
 
