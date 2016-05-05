@@ -17,6 +17,11 @@ Chrome 插件-用来提示黑心医院名单，欢迎PR
     将bh_hospitals.crx 拖到谷歌浏览器下的拓展程序页面即可。
 
 
+##### 工具下载
+
+![百度网盘](http://pan.baidu.com/s/1mhT3hsW)
+
+
 ##### 数据来源
 
 1 [凤凰网](http://news.ifeng.com/mainland/special/ptxyy/)
