@@ -23,7 +23,7 @@ Chrome 插件-用来提示黑心医院名单，欢迎PR
 
 ##### 效果展示
 
-![]('http://ac-a5zjlnxg.clouddn.com/daa35734f88d7893.png');
+![](http://ac-a5zjlnxg.clouddn.com/daa35734f88d7893.png)
 
 进入意思莆田系的医院会有报警提示。
 
