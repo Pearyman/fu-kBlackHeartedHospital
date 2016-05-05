@@ -51,3 +51,9 @@ Chrome 插件-用来提示黑心医院名单，欢迎PR
 
 [传送门](https://chrome.google.com/webstore/detail/bhhospitals/ieogbmijfpmdlkdifblkcgomfmonmfbc)
 
+
+
+
+
+您们fork一下或者给颗星星是对我莫大的鼓励，感谢。
+
