@@ -45,9 +45,9 @@ Chrome 插件-用来提示黑心医院名单，欢迎PR
 欢迎大家fork 并补充更多的黑心医院数据。
 
 
-############################################################################
 
-插件已添加至谷歌应用商店
+
+#####插件已添加至谷歌应用商店
 
 [传送门](https://chrome.google.com/webstore/detail/bhhospitals/ieogbmijfpmdlkdifblkcgomfmonmfbc)
 
