@@ -60,6 +60,16 @@ Chrome 插件-用来提示黑心医院名单，欢迎PR
 
 
 
+## 喜大普奔的v1.0.3已经更新 
+
+请到[chrome应用商店下载最新版本](https://chrome.google.com/webstore/detail/bhhospitals/ieogbmijfpmdlkdifblkcgomfmonmfbc?hl=zh-CN)
+
+更新内容：
+
+将查询后的百度推广内容屏蔽掉
+
+
+
 ##todo
 
 因为精力有限，将hospitals.js文件中的数据拿出来。希望大家通过pull request 来更新此份数据以及其中的链接部分。
