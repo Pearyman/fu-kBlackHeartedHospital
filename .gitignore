@@ -1,4 +1,4 @@
-bh_hospitals/
+/bh_hospitals
 gen/
 *.class
 .DS_Store
