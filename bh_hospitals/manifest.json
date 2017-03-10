@@ -1,0 +1,16 @@
+{
+    "name": "莆田系黑心医院名单插件",
+    "version": "1.0.4",
+    "manifest_version": 2,
+    "content_scripts": [{
+        "run_at": "document_end",
+        "matches": ["http://*/*", "https://*/*"],
+        "js": ["bg.js"]
+    }],
+    "description": "let more people far away black_hearted hospitals",
+    "browser_action": {
+        "default_icon": "icon.png",
+        "default_title": "blank_hearted hospitals",
+        "default_popup": "index.html"
+    }
+}
