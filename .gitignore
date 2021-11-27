@@ -22,7 +22,7 @@ local.properties
 .classpath
 .settings/
 .loadpath
-
+ptHospitals.pem
 # External tool builders
 .externalToolBuilders/
 
